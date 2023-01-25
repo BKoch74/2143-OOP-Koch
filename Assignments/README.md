@@ -2,4 +2,4 @@
 
 |   Number   | Folder Link | Assignment Description |
 | :--------: | ----------- | ---------------------- |
-|     01     |     A03     |                        |
+|     01     |        A03     |                        |
