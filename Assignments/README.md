@@ -1,5 +1,5 @@
 ## Assignments Folder
 
-|   #   | Folder Link | Assignment Description |
-| :---: | ----------- | ---------------------- |
-|  01   |             |                        |
+|   Number   | Folder Link | Assignment Description |
+| :--------: | ----------- | ---------------------- |
+|     01     |     AO3     |                        |
