@@ -25,3 +25,4 @@ printed to the console and an output file.
 - Example Command:
     - Vector v(arr[]): Creates a vector from array arr[].
     - v.popFront(): Removes and returns the first item of the vector.
+    - v.pushRear(10): Adds a 10 to the end of vector v.
