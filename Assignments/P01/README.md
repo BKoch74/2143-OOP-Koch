@@ -20,12 +20,7 @@ printed to the console and an output file.
 ### Instructions
 
 - My program expects an input file filled with some integers.
-
-+------------+
-| name1 age1 |
-| name2 age2 |
-| etc...     |
-+------------+
+- Make sure the input file  is in the file directory with main.cpp.
 
 - Example Command:
     - `python <code> <input file> <num players>`
