@@ -15,7 +15,7 @@ printed to the console and an output file.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | Main.cpp         | Main driver of my project that launches game.      |
-|   2   | input.dat  | Input file containing integers.         |
+|   2   | [input.dat](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P01/input.dat)  | Input file containing integers.         |
 
 ### Instructions
 
