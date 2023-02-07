@@ -15,13 +15,12 @@ printed to the console and an output file.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | Main.cpp         | Main driver of my project that launches game.      |
-|   2   | [input.dat](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P01/input.dat)  | Input file containing integers.         |
 
 ### Instructions
 
 - My program expects an input file filled with some integers.
-- Make sure the input file  is in the file directory with main.cpp.
+- Requires iostream and fstream to work.
 
 - Example Command:
-    - `python <code> <input file> <num players>`
-    - `python main.py input.txt 3`
+    - Vector v(arr[]): Creates a vector from array arr[].
+    - v.popFront(): Removes and returns the first item of the vector.
