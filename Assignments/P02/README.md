@@ -12,7 +12,7 @@ the user can perform all of the listed operations without the need of a function
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [Banner.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P02/Banner.cpp) | My banner file. |
-|   2   | [Main.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P02/main.cpp) | Main driver of my project that launches game.      |
+|   2   | [Main.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P02/main.cpp) | Main driver of my project that runs the program.   |
 
 ### Instructions
 
