@@ -21,5 +21,5 @@ the user can perform all of the listed operations without the need of a function
 - Example Command:
     - cout << v4:  Prints out vector v4.
     - v1 = v2 * v3: Stores the result of v2 time v3 in v1.
-    - cout << v3 == v2: tests equality between v3 and v2.
+    - cout << v3 == v2: Tests equality between v3 and v2.
 
