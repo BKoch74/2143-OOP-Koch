@@ -15,7 +15,7 @@ printed to the console and an output file.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [Banner.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P01/Banner.cpp) | My banner file. |
-|   2   | [Main.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P01/main.cpp) | Main driver of my project that launches game.      |
+|   2   | [Main.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P01/main.cpp) | Main driver of my project that runs the program     |
 
 ### Instructions
 
