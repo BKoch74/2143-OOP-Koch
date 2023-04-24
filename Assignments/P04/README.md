@@ -11,8 +11,9 @@ our DND program.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [Main.py](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P04/main.py)         | Main driver of my project that launches the dice rolling.      |
-|   2   | [Dice.py](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P04/dice.py) | Holds all of the Dice and Die classes and methods.         |
+|   1   | [Banner.cpp](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P04/Banner.cpp) | Banner page for my program.|
+|   2   | [Main.py](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P04/main.py)         | Main driver of my project that launches the dice rolling.      |
+|   3   | [Dice.py](https://github.com/BKoch74/2143-OOP-Koch/blob/main/Assignments/P04/dice.py) | Holds all of the Dice and Die classes and methods.         |
 
 ### Instructions
 
