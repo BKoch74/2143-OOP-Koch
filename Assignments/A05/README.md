@@ -8,4 +8,4 @@ UML class design for a D&D program to help visualize the implementation of code 
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   |  | UML class design of my D&D program. |
+|   1   | OOP_A05_DND.pdf | UML class design of my D&D program. |
